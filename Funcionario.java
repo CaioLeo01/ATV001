@@ -44,6 +44,3 @@ class Funcionario extends Thread {
 
 
 
-// Saldo restante =  valor remanescente 
-// contaInvestimento = InvestimentoBancario
-//totalsalario = salario total
